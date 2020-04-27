@@ -1,0 +1,6 @@
+com\southwind\springboottest\repository\BookRepository.class
+com\southwind\springboottest\entity\CountCate.class
+com\southwind\springboottest\SpringboottestApplication.class
+com\southwind\springboottest\controller\BookHandler.class
+com\southwind\springboottest\entity\Book.class
+com\southwind\springboottest\config\CrosConfig.class
